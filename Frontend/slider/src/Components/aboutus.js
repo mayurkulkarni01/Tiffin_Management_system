@@ -1,10 +1,8 @@
 
 import React from 'react';
-//import Ganesh from "../assets/suraj.JPG"
-//import Sanket from "../assets/rushikeshj.jpg"
+
 import { Link } from 'react-router-dom';
-//import Aashay from "../assets/pavan.jpg"
-//import Shubham from "../assets/rushid.jpg"
+
 const Aboutus=()=>{
 
     return (
@@ -84,32 +82,20 @@ Our cooks have more than a decade of experience in catering industry.
 <div class="row text-center" >
          
          {/* <div class="col-xl-3 col-sm-6 mb-5" >
-           <div class="bg-white rounded shadow-sm py-5 px-4"><img src={Ganesh} alt="" width="100"   class="img-fluid rounded-circle mb-3 img-thumbnail shadow-sm"/>
+           <div class="bg-white rounded shadow-sm py-5 px-4"><img src={mayur} alt="" width="100"   class="img-fluid rounded-circle mb-3 img-thumbnail shadow-sm"/>
              <h5 class="mb-0">Suraj Jadhav</h5><span class="small text-uppercase text-muted">CEO - Founder</span>
            
            </div>
          </div> */}
         
          {/* <div class="col-xl-3 col-sm-6 mb-5">
-           <div class="bg-white rounded shadow-sm py-5 px-4"><img src={Sanket} alt="" width="100" class="img-fluid rounded-circle mb-3 img-thumbnail shadow-sm"/>
+           <div class="bg-white rounded shadow-sm py-5 px-4"><img src={sagar} alt="" width="100" class="img-fluid rounded-circle mb-3 img-thumbnail shadow-sm"/>
              <h5 class="mb-0">Rusheekesh Jadhav</h5><span class="small text-uppercase text-muted">CEO - Founder</span>
             
            </div>
          </div> */}
          
-         {/* <div class="col-xl-3 col-sm-6 mb-5">
-           <div class="bg-white rounded shadow-sm py-5 px-4"><img src={Shubham} alt="" width="100" class="img-fluid rounded-circle mb-3 img-thumbnail shadow-sm" />
-             <h5 class="mb-0">Rushikesh Desai</h5><span class="small text-uppercase text-muted">CEO - Founder</span>
-            
-           </div>
-         </div> */}
-        
-         {/* <div class="col-xl-3 col-sm-6 mb-5">
-           <div class="bg-white rounded shadow-sm py-5 px-4"><img src={Aashay} alt="" width="100" class="img-fluid rounded-circle mb-3 img-thumbnail shadow-sm" />
-             <h5 class="mb-0">Pavan Gadadare</h5><span class="small text-uppercase text-muted">CEO - Founder</span>
-             
-           </div>
-         </div> */}
+      
          
    
        </div>
